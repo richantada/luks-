@@ -3,11 +3,11 @@
 http://tvku.live:8888/loekas/54321/3579
 #EXTINF: -1 tvg-id="Trans7.id" tvg-name="Server ID: Trans 7" tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_small1.png" group-title="Server ID", Server ID: Trans 7
 http://tvku.live:8888/loekas/54321/3583
-#EXTINF:-1 tvg-logo="https://i.imgur.com/P7ePccz.png" group-title="Server ID", MNC TV HD
+#EXTINF: -1 tvg-id="MNC.id" tvg-name="Server ID: MNC TV" tvg-logo="https://i.imgur.com/P7ePccz.png" group-title="Server ID", Server ID: MNC TV HD
 https://linier.akamaized.net/live/eds/MNCTV_Logo/sa_hls/MNCTV_Logo-avc1_1000000=1-mp4a_64000=2.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rA0rUsj.png" group-title="Server ID", RCTI HD
+#EXTINF: -1 tvg-id="RCTI.id" tvg-name="Server ID: RCTI HD" tvg-logo="https://i.imgur.com/rA0rUsj.png" group-title="Server ID", Server ID: RCTI HD
 https://linier.akamaized.net/live/eds/RCTI_Logo/sa_hls/RCTI_Logo-avc1_2000000=6-mp4a_64000=2.m3u8
-#EXTINF:0 tvg-logo="https://imgur.com/hAkcBVR.png" group-title="Server ID", GLOBAL TV
+#EXTINF: -1 tvg-id="GTV.id" tvg-name="Server ID: GTV" tvg-logo="https://imgur.com/hAkcBVR.png" group-title="Server ID", Server: GLOBAL TV
 https://linier.akamaized.net/live/eds/GTV_Logo/sa_hls/GTV_Logo-avc1_1000000=3-mp4a_64000=2.m3u8
 
 #EXTINF: -1 tvg-id="TransTV.id" tvg-name="Server ID: Trans TV" tvg-logo="https://www.useetv.com/assets/images/channel/logo_transtv_small1.png" group-title="Server ID", Server ID: Trans TV
